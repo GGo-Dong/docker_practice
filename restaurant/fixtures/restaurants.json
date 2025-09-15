@@ -1,0 +1,22 @@
+[
+    {
+        "model": "restaurant.restaurant",
+        "pk": 1,
+        "fields": {
+        "name": "피로스테이크하우스",
+        "location": "서울 강남구 어딘가 123",
+        "context": "스테이크가 정말 맛있는 집",
+        "naver_link": "https://map.naver.com"
+        }
+    },
+    {
+        "model": "restaurant.restaurant",
+        "pk": 2,
+        "fields": {
+        "name": "김동수라멘",
+        "location": "서울 마포구 어딘가 456",
+        "context": "라멘 국물이 진국",
+        "naver_link": "https://map.naver.com"
+        }
+    }
+]
