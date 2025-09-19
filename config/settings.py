@@ -70,7 +70,7 @@ DATABASES = {
         'NAME': 'myrestaurant',
         'USER' : 'root',
         'PASSWORD' : '1234',
-        'HOST' : '127.0.0.1',
+        'HOST' : 'mysqlServer',
         'PORT' : '3306',
     }
     # 'default': {
